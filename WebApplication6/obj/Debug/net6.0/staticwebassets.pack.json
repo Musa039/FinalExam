@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\ico\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\ico\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\img\\bigBG.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bigBG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\img\\mobile.png",
+      "PackagePath": "staticwebassets\\assets\\img\\mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\img\\screen1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\screen1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\img\\screen2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\screen2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\img\\tablet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\tablet.png"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\CA.R215.18\\Desktop\\FinalExam\\WebApplication6\\wwwroot\\assets\\js\\flexslider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\flexslider.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication6.props",
+      "PackagePath": "build\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication6.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication6.props",
+      "PackagePath": "buildTransitive\\WebApplication6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
